@@ -2,3 +2,5 @@ accounts.google.com
 server21.000webhost.com
 000webhostapp.com
 us-east-1.route-1.000webhost.awex.io
+us-east-1.route-1000.000webhost.awex.io
+us-east-1.route-1001.000webhost.awex.io

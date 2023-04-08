@@ -1,5 +1,5 @@
 #!/bin/bash
-cd generate-domains-blocklist
+cd ~/dnscrypt/generate-domains-blocklist
 python3 generate-domains-blocklist.py -o ~/dnscrypt/blocked-names.txt
 cd ..
 git add blocked-names.txt

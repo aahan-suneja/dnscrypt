@@ -5,5 +5,4 @@ us-east-1.route-1.000webhost.awex.io
 us-east-1.route-1000.000webhost.awex.io
 us-east-1.route-1001.000webhost.awex.io
 clicks.eventbrite.com
-sdk.split.io
-auth.split.io
+split.io

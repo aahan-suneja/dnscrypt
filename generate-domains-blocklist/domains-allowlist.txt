@@ -6,3 +6,4 @@ us-east-1.route-1000.000webhost.awex.io
 us-east-1.route-1001.000webhost.awex.io
 clicks.eventbrite.com
 split.io
+indexexchange.com

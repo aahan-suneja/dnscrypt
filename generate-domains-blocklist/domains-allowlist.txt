@@ -7,3 +7,4 @@ us-east-1.route-1001.000webhost.awex.io
 clicks.eventbrite.com
 split.io
 indexexchange.com
+chatgpt.com

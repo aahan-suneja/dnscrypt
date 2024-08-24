@@ -8,3 +8,4 @@ clicks.eventbrite.com
 split.io
 indexexchange.com
 chatgpt.com
+signifyd.com
